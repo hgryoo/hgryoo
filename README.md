@@ -71,7 +71,7 @@ Code review practices · branching & release strategies · developer experience 
 
 ### 📌 Selected open-source projects
 
-- **[CUBRID](https://github.com/CUBRID/cubrid)** — storage engine, lock manager, CAS server, indexing
+- **[CUBRID](https://github.com/CUBRID/cubrid)** — Open-source RDBMS built from the ground up in C/C++ — its own storage, transaction, and query layers, with built-in HA for production OLTP workloads.
 
 ---
 
