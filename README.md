@@ -35,7 +35,7 @@ I like problems that sit at the intersection of:
 
 - 🗄️ **DBMS internals** — storage, transactions, concurrency, query processing, indexing
 - 🧭 **Geo-spatial intelligence** — 3D GIS, indoor space modeling, spatio-temporal data
-- ⚙️ **Systems performance** — locking, parallelism, SIMD, profiling
+- ⚙️ **Systems performance** — locking, parallelism, micro-architecture tuning, profiling
 - 🌱 **Open-source software** — community-driven engineering, reproducible benchmarks
 
 ---
@@ -54,7 +54,7 @@ I like problems that sit at the intersection of:
 Storage & buffer management · transactions, MVCC, locking · query processing · indexing (B-tree, multi-dimensional, ANN) · recovery & logging
 
 **Concurrency & systems performance**
-Multi-threaded engine design · lock contention analysis · vectorization · CPU- and cache-level performance analysis · workload-driven micro-benchmarking
+Multi-threaded engine design · lock contention analysis · CPU- and cache-level performance analysis · workload-driven micro-benchmarking
 
 **Spatial & spatio-temporal data**
 3D geometry processing · spatial indexing · indoor space modeling · OGC / IndoorGML standards
